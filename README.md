@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+---
 
+<p align="center">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GezzySherin&theme=dark&hide_border=true&background=141821"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GezzySherin&show_icons=true&hide_border=true&bg_color=141821&title_color=FB8C00&icon_color=FB8C00"/>
+</p>
 <!--
 **GezzySherin/GezzySherin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
