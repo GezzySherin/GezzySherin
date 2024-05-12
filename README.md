@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GezzySherin/count.svg" />
+</p>
+
 # From Dreams to Reality
 
 
@@ -48,8 +53,13 @@
 - [ ] Combo 180 days of coding<br>
 - [ ] search<br>
 
-    
+<!---  
+#
 
-
+<p align="center">
+  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+  </a>
+-->
 
 
