@@ -6,7 +6,7 @@
 # From Dreams to Reality
 
 
->   <strong>About me: </strong>
+>   <strong>About me: </strong><br> 
 >   &nbsp;&nbsp;&nbsp;&nbsp;I am a guy who strives for growth and development.<br> 
 >   Curious, responsible, ambitious, I love to discover new and interesting things. <br>
 >   When I set a goal for myself, I will achieve it regardless of the difficulty.
