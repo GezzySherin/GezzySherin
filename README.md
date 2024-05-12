@@ -11,13 +11,13 @@
 <p align="right">
     <strong>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</strong>
 <br/> 
-<code><img height="40" width="40" src="ICONS/git.png"/></code>
-<code><img height="40" width="40" src="ICONS/github.png"/></code>
-<code><img height="40" width="40" src="ICONS/python.png"/></code>
-<code><img height="40" width="40" src="ICONS/kotlin.png"/></code>
-<code><img height="40" width="40" src="ICONS/android.png"/></code>
-<code><img height="40" width="40" src="ICONS/html.png"/></code>
-<code><img height="40" width="40" src="ICONS/MySQL.png"/></code>
+<code><img title="Git" height="40" width="40" src="ICONS/git.png"/></code>
+<code><img title="Github" height="40" width="40" src="ICONS/github.png"/></code>
+<code><img title="Python" height="40" width="40" src="ICONS/python.png"/></code>
+<code><img title="Kotlin" height="40" width="40" src="ICONS/kotlin.png"/></code>
+<code><img title="Android" height="40" width="40" src="ICONS/android.png"/></code>
+<code><img title="HTML5" height="40" width="40" src="ICONS/html.png"/></code>
+<code><img title="MySQL" height="40" width="40" src="ICONS/MySQL.png"/></code>
 </p>
 <br/>
 
@@ -43,6 +43,13 @@
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GezzySherin&show_icons=true&hide_border=true&bg_color=141821&title_color=FB8C00&icon_color=FB8C00"/>
 </p>
+
+### Challenges<br>
+- [ ] Combo 180 days of coding<br>
+- [ ] search<br>
+
+    
+
 
 
 
