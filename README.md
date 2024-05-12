@@ -1,10 +1,9 @@
-# title
+# From Dreams to Reality
 
 <details open="">
 <summary>
    <strong>About me: </strong>
 </summary>
-<br/>
 
 <p align="left">
    &nbsp;&nbsp;&nbsp;&nbsp;I am a guy who strives for growth and development.<br> 
