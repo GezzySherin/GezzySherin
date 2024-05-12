@@ -27,11 +27,12 @@
 - 😄 Pronouns: he/him.<br> 
 - ⚡ Fun fact: if you write to me, I will definitely answer.<br> 
 </p>
-<br/>
 
 #
-
-<br/>
+<p align="center">
+<br/> 
+<img align="center" height="140" width="200" alt="GIF" src="GIFS/pepedance.gif.gif"/>
+</p>
 
 #
 <p>
