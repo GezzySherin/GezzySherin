@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/GezzySherin/count.svg" />
+  <img src="https://profile-counter.glitch.me/GezzySherin/count.svg"/>
 </p>
 
 # From Dreams to Reality
